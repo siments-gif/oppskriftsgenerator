@@ -1,6 +1,6 @@
 # Oppskriftsgenerator
 
-![Alternativ tekst / beskrivelse](docs/images/Cover.png)
+![Introduksjonsbilde for prosjektet i Case Study](docs/images/Cover.png)
 
 ## Om prosjektet
 
