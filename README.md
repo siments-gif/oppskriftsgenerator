@@ -25,3 +25,11 @@
 ## MVP – Minimum Viable Product
 
 ## Tech Stack (planlagt)
+
+| Kategori    | Teknologi / Verktøy  | Begrunnelse                          |
+| ----------- | -------------------- | ------------------------------------ |
+| Frontend    | Next.js + TypeScript | Moderne, SEO-vennlig, app router     |
+| Styling     | Tailwind CSS         | Rask prototyping, mobil-først        |
+| Komponenter | Shadcn UI            | Ferdige komponenter, lett gjennbruk  |
+| API         | Spoonacular          | Gratis ingrediens-basert oppskrifter |
+| Deployment  | Vercel               | Enkel, automatisk PWA-støtte         |
